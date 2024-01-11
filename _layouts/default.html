@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="/assets/css/main.css">
+	<title>Core II: Interaction</title>
+</head>
+
+<body>
+
+	<header class="Header">
+		<nav class="Nav">
+			<a href="/" class="Nav-link">
+				<div class="Nav-item Nav-item--header is-active">
+					Core II: Interaction 2024
+				</div>
+			</a>
+			<a href="/calendar" class="Nav-link">
+				<div class="Nav-item">
+					Calendar
+				</div>
+			</a>
+			<a href="/resources" class="Nav-link">
+				<div class="Nav-item">
+					Resources
+				</div>
+			</a>
+			<a href="/assignments" class="Nav-link">
+				<div class="Nav-item">
+					Assignments
+				</div>
+			</a>
+			<a href="/posts" class="Nav-link">
+				<div class="Nav-item">
+					Posts
+				</div>
+			</a>
+		</nav>
+	</header>
+
+	<main class="Main">
+		<fieldset class="Toggle">
+			<div class="Toggle-item">
+				<input class="Toggle-input" 
+					type="checkbox" 
+					name="studio"
+					id="StudioInput"
+					checked>
+				<label class="Toggle-label" for="StudioInput">
+					Studio
+				</label>
+			</div>
+			<div class="Toggle-item">
+				<input class="Toggle-input"
+					type="checkbox" 
+					name="lab"
+					id="LabInput"
+					checked>
+				<label class="Toggle-label" for="LabInput">
+					Lab
+				</label>
+			</div>
+		</fieldset>
+		{{ content }}
+	</main>
+
+	<script src="/assets/js/main.js"></script>
+</body>
+
+</html>

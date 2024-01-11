@@ -1,0 +1,9 @@
+studio:
+  time: 7:00-9:40P, TTH
+  location: 2 W 13th St., Rm. 1103
+  description: This course exposes students to thorough and elaborate interactive concepts and techniques for applications. It is an extensive investigation in the interface, the mechanism, the controls and the aims of interactive works. Students will learn how to design and develop complex interactive projects and understand how to undertake comprehensive research and direct their thinking process from brainstorming to the final outcome.
+  
+lab:
+  time: 9:00-11:40A, F
+  location: 2 W 13th St., Rm. 802
+  description: This course serves as a complement to Core Studio Interaction. The assignments are built to work in tandem with the projects students are developing in the studio class. The lab is designed around a series of small workshops that teach beginning and intermediate interaction design through a hands-on engagement with HTML and CSS.

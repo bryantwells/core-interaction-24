@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+{% if page.collection == 'studio_assignments' %}
+	{% assign type = 'Studio' %}
+{% elsif page.collection == 'lab_assignments' %}
+	{% assign type = 'Lab' %}
+{% endif %}
+
+<section class="Page">
+
+	<header class="Page-header">
+		<h2 class="Page-title">
+			{{ page.title }}
+		</h2>
+		<div class="Meta">
+			<div class="Meta-item">
+				{{ type }} Assignment
+			</div>
+			<div class="Meta-item">
+				Due {{ page.end_date }}
+			</div>
+		</div>
+	</header>
+	
+	<section class="Page-body u-bodyText">
+		{% if page.embed %}
+			{{ page.embed }}
+		{% else %}
+			{{ content }}
+		{% endif %}
+	</section>
+	
+</section>

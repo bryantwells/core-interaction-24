@@ -1,0 +1,49 @@
+title: Core Interaction Spring 2024
+url: "http://core-interaction.example.com"
+collections_dir: _content
+
+collections:
+  studio_assignments:
+    output: true
+    permalink: /assignments/studio/:title.html
+  lab_assignments:
+    output: true
+    permalink: /assignments/lab/:title.html
+  studio_posts:
+    output: true
+    permalink: /posts/studio/:title.html
+  lab_posts:
+    output: true
+    permalink: /posts/lab/:title.html
+
+defaults:
+  - 
+    scope:
+      type: studio_assignments
+    values:
+      layout: assignments_entry
+  - 
+    scope:
+      type: lab_assignments
+    values:
+      layout: assignments_entry
+  - 
+    scope:
+      type: studio_posts
+    values:
+      layout: posts_entry
+  - 
+    scope:
+      type: lab_posts
+    values:
+      layout: posts_entry
+
+
+markdown: kramdown
+highlighter: rouge
+plugins: 
+  - jekyll-feed
+sass:
+  sass_dir: assets/css
+  verbose: true
+  
