@@ -14,3 +14,7 @@ title: Resources
 - [Learn HTML & CSS](http://learn.shayhowe.com/)  
 - [Eloquent JS](http://eloquentjavascript.net/) 
 - [Core 2 Vimeo](https://vimeo.com/user/11664633/folder/3213480) 
+
+## Syllabi
+- Core 2: Interaction Studio
+- Core 2: Interaction Lab
