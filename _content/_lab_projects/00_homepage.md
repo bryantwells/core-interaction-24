@@ -28,12 +28,14 @@ Build a personal class archive using the following structure:
 │  └─ 📁 workshops/
 │     └─ ...
 │
-└─ 📂 lab/ 
-   └─ 📁 projects/
-   │  ├─ 📁 01_introduction
-   │  └─ ...
-   └─ 📁 workshops/
-      └─ ...
+├─ 📂 lab/ 
+│  └─ 📁 projects/
+│  │  ├─ 📁 01_introduction
+│  │  └─ ...
+│  └─ 📁 workshops/
+│     └─ ...
+│
+└─
 ~~~
 
 This site will archive all of your course work. You should maintain two copies of the site: one on your computer ('local') and one on the schools server ('remote'). Start with a plain HTML page and gradually improve on it as the semester progresses. It should...

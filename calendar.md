@@ -7,6 +7,6 @@ title: Calendar
 
 | Class | Agenda | Homework |
 | :--- | :--- | :--- |
-| Studio (T) | Discussion: Introductions and Community Agreements <br> Workshop: Favicon Design | [Section Readings](/readings) |
-| Studio (TH) | Discussion: Section Readings | P1.1: Text Analysis |
-| Lab (F) | Workshop: File Structure and FTP | Homepage <br> Introduction Webring |
+| Studio (T) | <ins>Discussion:</ins> Introductions and Community Agreements <br> <ins>Workshop:</ins> Favicon Design | [Section Readings](/readings) |
+| Studio (TH) | <ins>Discussion:</ins> Section Readings | P1.1: Text Analysis |
+| Lab (F) | <ins>Workshop:</ins> File Structure and FTP | Homepage <br> Introduction Webring |
