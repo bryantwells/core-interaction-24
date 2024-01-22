@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<ul class="PostList">
+	{% assign posts = '' | split: '' %}
+	{% for collection in page.collections %}
+		{% assign posts = posts | concat: site[collection] %}
+	{% endfor %}
+	{% assign posts = posts | sort: "start_date" %}
+
+	{% for post in posts %}
+		{% if post.locked != true %}
+
+		 	{% if post.link%}
+				{% assign link = post.link %}
+			{% else %}
+				{% assign link = post.url %}
+			{% endif %}
+		
+			<li class="PostList-item">
+				<h2 class="PostList-title">	
+					<a href="{{ link }}" class="PostList-link">
+						{{ post.title }}
+					</a>
+				</h2>
+				{%- capture metaContent -%}
+					{%- if post.class -%}
+						{{ post.class | capitalize }},
+					{%- endif -%}
+					{%- if post.start_week -%}
+						Week {{ post.start_week }}{% if post.end_week %}–{{ post.end_week }}{% endif %},
+					{%- endif -%}
+					{%- if post.end_date -%}
+						Due {{ post.end_date | date: "%b %e" }}
+					{%- endif -%}
+				{%- endcapture -%}
+				{% include _meta.html content=metaContent %}
+			</li>
+		
+		{% endif %}
+	{% endfor %}
+	
+</ul>

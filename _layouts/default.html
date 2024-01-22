@@ -6,64 +6,70 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<link rel="stylesheet" href="/assets/css/main.css">
-	<title>Core II: Interaction</title>
+	<title>Core II: Interaction > {{ page.title }}</title>
 </head>
 
 <body>
 
 	<header class="Header">
+		<div class="Header-title">
+			<h1>
+				Core II: Interaction
+				<br> Spring 2024
+			</h1>
+		</div>
 		<nav class="Nav">
-			<a href="/" class="Nav-link">
-				<div class="Nav-item Nav-item--header is-active">
-					Core II: Interaction 2024
-				</div>
-			</a>
-			<a href="/calendar" class="Nav-link">
-				<div class="Nav-item">
-					Calendar
-				</div>
-			</a>
-			<a href="/resources" class="Nav-link">
-				<div class="Nav-item">
-					Resources
-				</div>
-			</a>
-			<a href="/assignments" class="Nav-link">
-				<div class="Nav-item">
-					Assignments
-				</div>
-			</a>
-			<a href="/posts" class="Nav-link">
-				<div class="Nav-item">
-					Posts
-				</div>
-			</a>
+			<ul class="Nav-list">
+				<li class="Nav-item">
+					<a href="/" class="Nav-link">
+						Home
+					</a>
+				</li>
+				<li class="Nav-item">
+					<a href="/calendar" class="Nav-link">
+						Calendar
+					</a>
+				</li>
+				<li class="Nav-item">
+					<a href="/workshops" class="Nav-link">
+						Workshops
+					</a>
+				</li>
+				<li class="Nav-item">
+					<a href="/projects" class="Nav-link">
+						Projects
+					</a>
+				</li>
+				<li class="Nav-item">
+					<a href="/readings" class="Nav-link">
+						Readings
+					</a>
+				</li>
+				<li class="Nav-item">
+					<a href="/resources" class="Nav-link">
+						Resources
+					</a>
+				</li>
+			</ul>
 		</nav>
 	</header>
 
-	<main class="Main">
-		<fieldset class="Toggle">
-			<div class="Toggle-item">
-				<input class="Toggle-input" 
-					type="checkbox" 
-					name="studio"
-					id="StudioInput"
-					checked>
-				<label class="Toggle-label" for="StudioInput">
-					Studio
-				</label>
-			</div>
-			<div class="Toggle-item">
-				<input class="Toggle-input"
-					type="checkbox" 
-					name="lab"
-					id="LabInput"
-					checked>
-				<label class="Toggle-label" for="LabInput">
-					Lab
-				</label>
-			</div>
-		</fieldset>
+	<main class="Page">
+		<header class="Page-header">
+			<h1>{{ page.title }}</h1>
+			{%- capture metaContent -%}
+				{%- if page.class -%}
+					{{ page.class | capitalize }},
+				{%- endif -%}
+				{%- if page.start_week -%}
+					Week {{ page.start_week }}{% if page.end_week %}–{{ page.end_week }}{% endif %},
+				{%- endif -%}
+				{%- if page.end_date -%}
+					Due {{ page.end_date | date: "%b %e" }}
+				{%- endif -%}
+			{%- endcapture -%}
+			{% include _meta.html content=metaContent %}
+		</header>
 		{{ content }}
 	</main>
 

@@ -1,3 +1,0 @@
----
-layout: assignments_index
----

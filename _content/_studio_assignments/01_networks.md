@@ -1,8 +1,0 @@
----
-title: Stories as Networks
-start_week: 1
-end_week: 5
-start_date: 2024-01-01
-end_date: 2024-02-01
-embed: <iframe src="https://docs.google.com/document/d/e/2PACX-1vRbXR5fwUX7LMyWR22Ti7bDr7zMbeeIHLWj69e2y2uTKqyPd2iYj9Fckx1NEfz82BRIM4ElqdDcNKY8/pub?embedded=true"></iframe>
----

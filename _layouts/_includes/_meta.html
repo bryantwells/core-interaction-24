@@ -1,0 +1,11 @@
+{% assign metaList = include.content | split: "," %}
+{% if metaList[0] %}
+	<div class="Meta">
+		
+		{% for metaItem in metaList %}
+			<span class="Meta-item">
+				{{ metaItem }}
+			</span>
+		{% endfor %}
+	</div>
+{% endif %}
