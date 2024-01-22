@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<section class="CourseList">
+	{% for course in site.data.courses %}
+		<section class="CourseList-item">
+			<h2>{{ course.name }}</h2>
+			<dl>
+				<dt>Time</dt>
+				<dd>{{ course.time }}</dd>
+				<dt>Location</dt>
+				<dd>{{ course.location }}</dd>
+				<dt>Instructor</dt>
+				<dd>{{ course.instructor }}</dd>
+			</dl>
+		</section>
+	{% endfor %}
+</section>
+<section class="Students">
+	<header class="Students-header">
+		<h2>Students</h2>
+	</header>
+	<ul class="Students-list">
+		{% for student in site.data.students %}
+			<li>{{ student.name }}</li>
+		{% endfor %}
+	</ul>
+</section>
