@@ -8,7 +8,7 @@ title: Resources
 - Core 2: Interaction Lab
 
 ## Quick Links
-- TBA
+- [Class Lineup](https://docs.google.com/document/d/1mC-NGmhZ_U7QS5CP1p7_hDiZ1N5kAbK21VtIVVQk8JE), Studio only
 
 ## Neccessary Programs
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
