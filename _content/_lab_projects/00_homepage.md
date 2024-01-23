@@ -1,4 +1,5 @@
 ---
+locked: true
 title: "Homepage (Part 1)"
 class: lab
 start_week: 1
