@@ -1,5 +1,4 @@
 ---
-locked: true
 title: "P3: New York City in Data"
 class: studio
 start_week: 10

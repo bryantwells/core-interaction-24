@@ -1,5 +1,4 @@
 ---
-locked: true
 title: "P2: Elastic Collection"
 class: studio
 start_week: 5
