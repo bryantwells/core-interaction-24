@@ -7,6 +7,6 @@ title: Calendar
 
 | Class | Agenda | Homework |
 | :--- | :--- | :--- |
-| Studio (T) | Activity—Introductions and Community Agreements <br> <ins>Workshop:</ins> [Favicon](https://docs.google.com/document/d/15gawrRKPkf1NcipJBp7a2IdEg07WG9u_MQRmT1WmN10) | [Unit 1](/readings) |
+| Studio (T) | Activity—Introductions and Community Agreements <br> <ins>Workshop:</ins> [Favicon](https://docs.google.com/document/d/15gawrRKPkf1NcipJBp7a2IdEg07WG9u_MQRmT1WmN10) | [Unit 1 Readings](/readings) |
 | Studio (Th) | <ins>Discussion:</ins> Unit 1 Readings | 
 | Lab (F) | <ins>Workshop:</ins> File Structure and FTP | Homepage <br> Introduction Webring |
