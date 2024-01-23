@@ -4,8 +4,8 @@ title: Readings
 ---
 
 ## 00—What is Interaction Design?
-- Ruben Pater [The Politics of Design](http://www.untold-stories.net/?p=The-Politics-of-Design), 2016 
-- Don Norman [The Design of Everyday Things](https://web.media.mit.edu/~ascii/papers/norman_chapter1_2013.pdf), 2013
+1. Ruben Pater [The Politics of Design](http://www.untold-stories.net/?p=The-Politics-of-Design), 2016 
+2. Don Norman [The Design of Everyday Things](https://web.media.mit.edu/~ascii/papers/norman_chapter1_2013.pdf), 2013
 
 
 ## 02—Foundations
