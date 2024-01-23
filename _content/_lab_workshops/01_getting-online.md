@@ -1,4 +1,5 @@
 ---
+locked: true
 title: "Getting Online"
 class: lab
 start_week: 1

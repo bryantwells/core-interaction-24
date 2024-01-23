@@ -1,4 +1,5 @@
 ---
+locked: true
 title: "Introduction Webring"
 class: lab
 start_week: 1
