@@ -3,6 +3,13 @@ layout: post
 title: Resources
 ---
 
+## Syllabi
+- [Core 2: Interaction Studio](https://docs.google.com/document/d/1uSgmvAGwzk8EYUbHQHOVSNhdZ7VOn7vngCplt9J2pqA)
+- Core 2: Interaction Lab
+
+## Quick Links
+- TBA
+
 ## Neccessary Programs
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
 - [VS Code](https://code.visualstudio.com/)
@@ -15,6 +22,3 @@ title: Resources
 - [Eloquent JS](http://eloquentjavascript.net/) 
 - [Core 2 Vimeo](https://vimeo.com/user/11664633/folder/3213480) 
 
-## Syllabi
-- Core 2: Interaction Studio
-- Core 2: Interaction Lab
