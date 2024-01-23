@@ -1,5 +1,5 @@
 ---
-title: "Website Study"
+title: "Favicon"
 class: studio
 start_week: 1
 start_date: 2024-01-23
