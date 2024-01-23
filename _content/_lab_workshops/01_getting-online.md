@@ -2,7 +2,7 @@
 title: "Getting Online"
 class: lab
 start_week: 1
-start_date: 2024-01-22
+start_date: 2024-01-26
 ---
 
 In class, we'll go through all the neccessary steps to getting a website online using github pages. First, we will make sure we have all of the applications neccessary to work.
