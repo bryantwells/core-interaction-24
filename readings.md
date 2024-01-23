@@ -9,10 +9,11 @@ title: Readings
 
 
 ## 01—Foundations
-1. [Digital Typography & Interface Aesthetics](http://www.untold-stories.net/?p=The-Politics-of-Design) (recorded by Annaka Olsen, password: interaction), 2021
+1.  Annaka Olsen, [Digital Typography & Interface Aesthetics](http://www.untold-stories.net/?p=The-Politics-of-Design) (recorded for Parsons CD), 2021
+- password: interaction
 2. American Artist, [Black Gooey Universe](https://unbag.net/end/black-gooey-universe/), 2018 
 3. Lisa Gitelman, [Always Already New Media: History, and the Data of Culture](http://www.untold-stories.net/?p=The-Politics-of-Design)(skim introduction), 2006 
-- Submit reading responses [here](https://docs.google.com/document/d/14SPURa9guJwSUJS3rdpiQyJd6Df_6NxKSDGkP5HI5f8)
+4. Submit reading responses [here](https://docs.google.com/document/d/14SPURa9guJwSUJS3rdpiQyJd6Df_6NxKSDGkP5HI5f8)
 
 ## 02—Online Behavior
 
