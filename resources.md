@@ -12,7 +12,6 @@ title: Resources
 - [Lecture Schedule](https://cdparsons.glideapp.io/dl/da19fa
 )
 
-
 ## Neccessary Programs
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
 - [VS Code](https://code.visualstudio.com/)
