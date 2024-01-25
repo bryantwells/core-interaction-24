@@ -15,6 +15,4 @@ title: Readings
 3. Lisa Gitelman, [Always Already New Media: History, and the Data of Culture](https://www.mediastudies.asia/wp-content/uploads/2016/10/Gitelman-Always-Already-New-Intro-excerpts.pdf)(skim the introduction), 2006 
 4. Submit reading responses [here](https://docs.google.com/document/d/1zp0CmThBfNv7nspoN9clikp86TO3blp8oSBTKPjJ4Jg)
 
-## 02—Online Behavior
-
-## 03—Aesthetics of the Web
+## 02—Aesthetics of the Web
