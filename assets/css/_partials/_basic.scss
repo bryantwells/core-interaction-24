@@ -12,13 +12,14 @@ table {
 	border-collapse: collapse;
 	min-width: 50%;
 	}
+
 td {
 	vertical-align: top;
 	padding: 10px;
 	margin-bottom: 10px;
 	border-bottom: 1px solid black;
 	border-right: 1px solid black;
-
+	width: 33.3%;
 }
 
 li {padding-bottom: 5px;}
