@@ -8,7 +8,7 @@ title: Calendar
 | Class | Agenda | Homework |
 | :--- | :--- | :--- |
 | Studio (T) | Workshop: TBA <br> Slideshow: TBA | P1: Part 1 |
-| Studio (Th) | <mark>Discuss:</mark> "Aesthetics of the Web" Readings <br><br> <mark>Due:</mark> P1: Part 1 | P1: Part 2 |
+| Studio (Th) | <mark>Discuss:</mark> "Aesthetics of the Web" Readings <br><br> <mark>Due:</mark> P1: Part 1 | P1: Part 2 <br> [“Aesthetics of the Web” Readings](/readings)|
 | Lab (F) | Workshop: TBA | 
 
 
