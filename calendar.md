@@ -12,6 +12,13 @@ title: Calendar
 | Lab (F) | Workshop: TBA | 
 
 
+| Class | Agenda | Homework |
+| :--- | :--- | :--- |
+| Studio (T) | Workshop: Site Map <br> Slideshow: TBA | P1: Part 1 |
+| Studio (Th) | <mark>Discuss:</mark> "Aesthetics of the Web" Readings <br><br> <mark>Due:</mark> P1: Part 1 | P1: Part 2 <br> Read: [“Aesthetics of the Web”](/readings)|
+| Lab (F) | Workshop: TBA | 
+
+
 ## Week 1 (1/22)
 
 | Class | Agenda | Homework |
