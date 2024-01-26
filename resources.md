@@ -5,7 +5,7 @@ title: Resources
 
 ## Syllabi
 - [Core 2: Interaction Studio](https://docs.google.com/document/d/1uSgmvAGwzk8EYUbHQHOVSNhdZ7VOn7vngCplt9J2pqA)
-- Core 2: Interaction Lab
+- [Core 2: Interaction Lab](https://docs.google.com/document/d/1j1ohctsQ6aGTztWyDgeNVc247rFkvuVYvSlvNJUbZ0o/edit#heading=h.3wwbhtcgcskn)
 
 ## Quick Links
 - [Class Lineup](https://docs.google.com/document/d/1mC-NGmhZ_U7QS5CP1p7_hDiZ1N5kAbK21VtIVVQk8JE), Studio only
