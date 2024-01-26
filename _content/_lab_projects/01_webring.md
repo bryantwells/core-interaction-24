@@ -45,9 +45,9 @@ Mark Wong → Qiwen Zhao
 Qiwen Zhao → Karsyn Cardoza  
 
 ## References
-[Olia Lialina, Summer](http://art.teleportacia.org/olia/summer/)
-[JODI.org](https://wwwwwwwww.jodi.org/)
+[Olia Lialina, Summer](http://art.teleportacia.org/olia/summer/)  
+[JODI.org](https://wwwwwwwww.jodi.org/)  
 
 ## Resources
-[HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-[Getting to Know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
+[HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)  
+[Getting to Know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)  
