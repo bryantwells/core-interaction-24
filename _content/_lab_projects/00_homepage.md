@@ -1,5 +1,4 @@
 ---
-locked: true
 title: "Homepage (Part 1)"
 class: lab
 start_week: 1
@@ -8,10 +7,10 @@ start_date: 2024-01-26
 end_date: 2024-05-10
 ---
 
-Build a personal class archive using the following structure:
+Use [this boilerplate](/files/boilerplates/core-2-interaction.zip) to build a personal class archive that follows this structure:
 
 ~~~
-📂 site/
+📂 core-2-interaction/
 │
 ├─ 📄 index.html 
 ├─ 🌸 favicon.ico 

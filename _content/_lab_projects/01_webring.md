@@ -1,5 +1,4 @@
 ---
-locked: true
 title: "Introduction Webring"
 class: lab
 start_week: 1
@@ -13,7 +12,7 @@ end_date: 2024-02-01
 Design a website, using only HTML, which introduces yourself to the class, and then links to one of your classmate's pages. Your website should include at least 11 pages with the following format:
 - 1 welcome page, introducing yourself
 - 9 fact pages, each including a single fact about yourself
-- 1 handoff page, introducing your classmate and linking to their welcome page (id.newschool.edu/lab/projects/01_introduction).
+- 1 handoff page, introducing your classmate and linking to their welcome page ([net-id].interactive.rodeo/lab/projects/01_introduction).
 
 ~~~
 📂 www/
@@ -27,3 +26,23 @@ Design a website, using only HTML, which introduces yourself to the class, and t
 		 ├─ 📄 09_fact.html
 		 └─ 📄 10_handoff.html
 ~~~
+
+## Handoff Order
+Karsyn Cardoza → Elida Chen
+Elida Chen → Jiaxin Chen
+Jiaxin Chen → MinSung Cho
+Leying Guo → Jinhyeok Jang
+MinSung Cho → Leying Guo
+Jinhyeok Jang → Kevin Li
+Kevin Li → Brianna Lou
+Brianna Lou → Lavanya Ranjan
+Lavanya Ranjan → Divyani Singh
+Divyani Singh → Meera Sunil
+Meera Sunil → Jordan Trimble
+Jordan Trimble → Luiza Whately
+Luiza Whately → Mark Wong
+Mark Wong → Qiwen Zhao
+Qiwen Zhao → Karsyn Cardoza
+
+## Resources
+[Getting to Know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)
