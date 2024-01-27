@@ -9,40 +9,42 @@ end_date: 2024-02-01
 
 ![](/files/lab/webring.png)
 
-Design a website, using only HTML (get creative!), which introduces yourself to the class, and then links to one of your classmate's pages. Your website should include at least 11 pages with the following format:
-- 1 welcome page, introducing yourself
-- 9 fact pages, each including a single fact about yourself
-- 1 handoff page, introducing your classmate and linking to their welcome page ([net-id].interactive.rodeo/lab/projects/01_introduction).
+Design a website using only HTML (get creative!), which introduces yourself to the class and then links to a classmate's page. Your website should include at least 11 pages with the following format:
+- 1 welcome page (`lab/projects/01_introduction/index.html`) introducing yourself
+- 9 fact pages (`lab/projects/01_introduction/01_fact.html`, etc.) each including a single fact about yourself
+- 1 handoff page (`lab/projects/01_introduction/10_handoff.html`) introducing your classmate and linking to their welcome page (`[classmates-net-id].interactive.rodeo/lab/projects/01_introduction`).
+
+
+## Folder Structure
+Upon completion, your project's folder structure should look something like this:
 
 ~~~
-📂 www/
+📂 core-2-interaction/
 └─ 📂 lab/ 
    └─ 📁 projects/
       └─ 📁 01_introduction
-	     ├─ 📄 index.html
-		 ├─ 📄 01_fact.html
-		 ├─ 📄 02_fact.html
-		 ...
-		 ├─ 📄 09_fact.html
-		 └─ 📄 10_handoff.html
+         ├─ 📄 index.html
+         ├─ 📄 01_fact.html
+         ├─ 📄 02_fact.html
+         ...
+         ├─ 📄 09_fact.html
+         └─ 📄 10_handoff.html
 ~~~
 
-## Handoff Order
-Karsyn Cardoza → Elida Chen  
-Elida Chen → Jiaxin Chen  
-Jiaxin Chen → MinSung Cho  
-Leying Guo → Jinhyeok Jang  
-MinSung Cho → Leying Guo  
-Jinhyeok Jang → Kevin Li  
-Kevin Li → Brianna Lou  
-Brianna Lou → Lavanya Ranjan  
-Lavanya Ranjan → Divyani Singh  
-Divyani Singh → Meera Sunil  
-Meera Sunil → Jordan Trimble  
-Jordan Trimble → Luiza Whately  
-Luiza Whately → Mark Wong  
-Mark Wong → Qiwen Zhao  
-Qiwen Zhao → Karsyn Cardoza  
+## Webring Order
+[Brianna](https://loub697.interactive.rodeo) > [Divyani](https://singd123.interactive.rodeo)  
+[Divyani](https://singd123.interactive.rodeo) > [Elida](https://chens091.interactive.rodeo)  
+[Elida](https://chens091.interactive.rodeo) > [Jiaxin](https://chenj543.interactive.rodeo)  
+[Jiaxin](https://chenj543.interactive.rodeo) > [Jin](https://jangj864.interactive.rodeo)  
+[Jin](https://jangj864.interactive.rodeo) > [Jordan](https://trimj250.interactive.rodeo)  
+[Jordan](https://trimj250.interactive.rodeo) > [Karsyn](https://cardk268.interactive.rodeo)  
+[Karsyn](https://cardk268.interactive.rodeo) > [Kevin](https://lik366.interactive.rodeo)  
+[Kevin](https://lik366.interactive.rodeo) > [Lavanya](https://ranjl416.interactive.rodeo)  
+[Lavanya](https://ranjl416.interactive.rodeo) > [Luiza](https://whatl947.interactive.rodeo)  
+[Luiza](https://whatl947.interactive.rodeo) > [Mark](https://wongm208.interactive.rodeo)  
+[Mark](https://wongm208.interactive.rodeo) > [Meera](https://sunim094.interactive.rodeo)  
+[Meera](https://sunim094.interactive.rodeo) > [Qiwen](https://zhaoq296.interactive.rodeo)  
+[Qiwen](https://zhaoq296.interactive.rodeo) > [Brianna](https://loub697.interactive.rodeo)  
 
 ## References
 [Olia Lialina, Summer](http://art.teleportacia.org/olia/summer/)  
@@ -51,3 +53,4 @@ Qiwen Zhao → Karsyn Cardoza
 ## Resources
 [HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)  
 [Getting to Know HTML](https://learn.shayhowe.com/html-css/getting-to-know-html/)  
+[Codecademy Introduction to HTML](https://www.codecademy.com/courses/learn-html/lessons/intro-to-html/exercises/intro)  
