@@ -16,18 +16,17 @@ Welcome to our homepage for Core 2: Interaction, Spring 2024! This site is a wor
 <u>Intructor:</u> Bryant Wells
 
 ## Students
-- Karsyn Cardoza
-- Elida Chen
-- Jiaxin Chen
+- [Brianna Lou](https://loub697.interactive.rodeo)
+- [Divyani Singh](https://singd123.interactive.rodeo)
+- [Elida Chen](https://chens091.interactive.rodeo)
+- [Jiaxin Chen](https://chenj543.interactive.rodeo)
+- [Jinhyeok Jang](https://jangj864.interactive.rodeo)
+- [Jordan Trimble](https://trimj250.interactive.rodeo)
+- [Karsyn Cardoza](https://cardk268.interactive.rodeo)
+- [Kevin Li](https://lik366.interactive.rodeo)
+- [Lavanya Ranjan](https://ranjl416.interactive.rodeo)
+- [Luiza Whately](https://whatl947.interactive.rodeo)
+- [Mark Wong](https://wongm208.interactive.rodeo)
+- [Meera Sunil](https://sunim094.interactive.rodeo)
 - MinSung Cho
-- Leying Guo
-- Jinhyeok Jang
-- Kevin Li
-- Brianna Lou
-- Lavanya Ranjan
-- Divyani Singh
-- Meera Sunil
-- Jordan Trimble
-- Luiza Whately
-- Mark Wong
-- Qiwen Zhao
+- [Qiwen Zhao](https://zhaoq296.interactive.rodeo)
