@@ -16,7 +16,7 @@ title: Readings
 - Submit reading responses [here](https://docs.google.com/document/d/1zp0CmThBfNv7nspoN9clikp86TO3blp8oSBTKPjJ4Jg)
 
 ## 02—Aesthetics of the Web
-1.  Olia Lialina, [Vernacular Web](http://art.teleportacia.org/observation/vernacular/)
+1.  Olia Lialina, [Vernacular Web](http://art.teleportacia.org/observation/vernacular/), 2007
 - Alternatively, you can [watch her 2022 talk](https://www.youtube.com/watch?v=_hFMOSmonvU) on youtube
 
 2. Marjanne van Helvert, [Dirty Design](https://dirty-design.net/dirtydesign.html) (introduction) 
