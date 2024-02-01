@@ -2,7 +2,17 @@
 layout: default
 title: Calendar
 ---
-
+<fieldset class="ClassToggle">
+    <legend>Section</legend>
+    <div>
+        <input type="checkbox" id="studio_toggle" name="studio" checked />
+        <label for="studio_toggle">Studio</label>
+    </div>
+    <div>
+        <input type="checkbox" id="lab_toggle" name="lab" checked />
+        <label for="lab_toggle">Lab</label>
+    </div>
+</fieldset>
 <section class="Calendar">
 	{% for week in site.data.calendar %}
         <section class="Calendar-week">
