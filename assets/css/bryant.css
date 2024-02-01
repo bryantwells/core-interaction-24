@@ -8,13 +8,14 @@ h1,h2,h3,h4 {
 
 ul,ol {
     padding: 0;
+    margin: 0;
 }
 
 li {
     list-style-type: none;
 }
 
-/* .Calendar-weekBody {
+.Calendar-weekBody {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-} */
+}
