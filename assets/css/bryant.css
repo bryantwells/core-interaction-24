@@ -10,10 +10,15 @@ a {
 
 fieldset {
     border: none;
-    padding: 0;
+    padding: 1rem;
     display: flex;
     background: black;
     color: yellow;
+    border-radius: 0.5rem;
+}
+
+fieldset p {
+    margin: 0;
 }
 
 h1,h2,h3,h4 {
