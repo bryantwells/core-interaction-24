@@ -1,9 +1,17 @@
 html {
     background-color: lime;
+    font-family: sans-serif;
+    line-height: 1.25;
+}
+
+body {
+    margin: 0;
+    padding: 1rem;
 }
 
 h1,h2,h3,h4 {
     margin: 0;
+    font-size: unset;
 }
 
 ul,ol {
@@ -15,7 +23,72 @@ li {
     list-style-type: none;
 }
 
+a {
+    color: currentColor;
+}
+
+.Calendar {
+    display: grid;
+    gap: 1rem;
+}
+
+.Calendar-week {
+    display: grid;
+    gap: 1rem;
+}
+
+.Calendar-weekHeader {
+    border-top: 1px solid black;
+    padding-top: 0.5rem;
+}
+
 .Calendar-weekBody {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+}
+
+.Calendar-class {
+    display: grid;
+    gap: 1rem;
+    align-content: start;
+}
+
+.Calendar-class strong {
+    font-weight: normal;
+}
+
+.Meta {
+    display: flex;
+    gap: 0.25rem;
+}
+
+.Meta-item {
+    background-color: black;
+    color: lime;
+    padding: 0.25rem;
+    padding-bottom: 0.1rem;
+    border-radius: 0.25rem;
+}
+
+.PostList {
+    display: grid;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.Page-header {
+    margin-bottom: 1rem;
+}
+
+.ClassToggle {
+    margin-bottom: 1rem;
+}
+
+.Nav {
+    margin-bottom: 1rem;
+}
+
+.Nav-list {
+    display: flex;
 }

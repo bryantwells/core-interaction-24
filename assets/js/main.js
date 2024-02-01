@@ -38,5 +38,5 @@ function toggleClassElements(name, isVisible) {
 
 function toggleStylesheet(url) {
     stylesheetElement.href = url;
-    document.cookie = `stylesheet=${ url }; SameSite=Lax`; 
+    document.cookie = `stylesheet=${ url }; SameSite=Lax; path=/`; 
 }
