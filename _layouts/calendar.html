@@ -4,5 +4,27 @@ title: Calendar
 ---
 
 <section class="Calendar">
-	{{ content }}
+	{% for week in site.data.calendar %}
+        <section class="Calendar-week">
+            <h3>{{ week.title }}</h3>
+            <section class="Calendar-class" data-class="studio">
+                <h4>Studio (T)</h4>
+                <div>
+                    {{ week.studio_1 | markdownify }}
+                </div>
+            </section>
+            <section class="Calendar-class" data-class="studio">
+                <h4>Studio (Th)</h4>
+                <div>
+                    {{ week.studio_2 | markdownify }}
+                </div>
+            </section>
+            <section class="Calendar-class" data-class="lab">
+                <h4>Lab (F)</h4>
+                <div>
+                    {{ week.lab | markdownify }}
+                </div>
+            </section>
+        </section>
+    {% endfor %}
 </section>

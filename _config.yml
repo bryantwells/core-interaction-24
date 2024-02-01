@@ -43,7 +43,4 @@ markdown: kramdown
 highlighter: rouge
 plugins: 
   - jekyll-feed
-sass:
-  sass_dir: assets/css
-  verbose: true
-  
+  - jekyll-last-modified-at

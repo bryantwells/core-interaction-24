@@ -1,0 +1,15 @@
+---
+layout: post
+title: Home
+---
+
+{{ content }}
+
+<h2>Students</h2>
+<ul class="StudentList">
+    {% for student in site.data.students %}
+        <li class="StudentList-item"> 
+            <a href="{{ student.url }}">{{ student.name }}</a>
+        </li>
+    {% endfor %}
+</ul>
