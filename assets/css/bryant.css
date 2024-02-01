@@ -1,49 +1,52 @@
 html {
-    background-color: lime;
+    background-color: yellow;
     font-family: sans-serif;
     line-height: 1.25;
-}
-
-/* body {
-    margin: 0;
-    padding: 1rem;
-}
-
-fieldset {
-    border: 1px solid black;
-}
-
-h1,h2,h3,h4 {
-    margin: 0;
-    font-size: unset;
-}
-
-ul,ol {
-    padding: 0;
-    margin: 0;
-}
-
-li {
-    list-style-type: none;
 }
 
 a {
     color: currentColor;
 }
 
-.Calendar {
-    display: grid;
+fieldset {
+    border: none;
+    padding: 0;
+    display: flex;
+    background: black;
+    color: yellow;
+}
+
+h1,h2,h3,h4 {
+    font-weight: unset;
+}
+
+.Header h1 {
+    margin: 0;
+}
+
+.ClassToggle-group {
+    display: flex;
     gap: 1rem;
 }
 
-.Calendar-week {
-    display: grid;
-    gap: 1rem;
+.PostList-item {
+    margin-bottom: 1rem;
 }
 
-.Calendar-weekHeader {
-    border-top: 1px solid black;
-    padding-top: 0.5rem;
+.PostList-title {
+    margin: 0;
+}
+
+.Meta {
+    display: flex;
+}
+
+.Calendar h2 {
+    margin-bottom: 0.5rem;
+}
+
+.Calendar h3 {
+    margin: 0;
 }
 
 .Calendar-weekBody {
@@ -53,50 +56,16 @@ a {
 }
 
 .Calendar-class {
-    display: grid;
-    gap: 1rem;
-    align-content: start;
+    background: white;
+    padding: 1rem;
+    border-radius: 0.5rem;
 }
 
-.Calendar-class strong {
-    font-weight: normal;
+.Calendar ul {
+    list-style: none;
+    padding: 0;
 }
 
-.Meta {
-    display: flex;
-    gap: 0.25rem;
+.Calendar strong {
+    font-weight: unset;
 }
-
-.Meta-item {
-    background-color: black;
-    color: lime;
-    padding: 0.25rem;
-    padding-bottom: 0.1rem;
-    border-radius: 0.25rem;
-}
-
-.PostList {
-    display: grid;
-    gap: 1rem;
-    margin-bottom: 1rem;
-}
-
-.Page-header {
-    margin-bottom: 1rem;
-}
-
-.ClassToggle {
-    margin-bottom: 1rem;
-}
-
-.ClassToggle-group {
-    display: flex;
-}
-
-.Nav {
-    margin-bottom: 1rem;
-}
-
-.Nav-list {
-    display: flex;
-} */
