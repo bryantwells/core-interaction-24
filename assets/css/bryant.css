@@ -1,0 +1,193 @@
+html {
+    background-color: lime;
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    max-width: 900px;
+    margin: auto;
+    padding: 1rem;
+}
+
+a {
+    color: currentColor;
+}
+
+fieldset {
+    border: 1px solid black;
+    padding: 1rem;
+    display: flex;
+    border-radius: 0.5rem;
+    gap: 1rem;
+}
+
+fieldset p {
+    margin: 0;
+}
+
+h1 {
+    line-height: 1;
+}
+
+h1,h2,h3,h4 {
+    font-weight: unset;
+}
+
+select {
+    flex: 1;
+}
+
+.ClassToggle-group {
+    display: flex;
+    gap: 1rem;
+}
+
+.Meta {
+    display: flex;
+}
+
+.Calendar h2 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.Calendar h3 {
+    margin: 0;
+}
+
+.Calendar-week {
+    border: 1px solid black;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin: 1rem 0;
+}
+
+.Calendar-weekBody {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+}
+
+.Calendar-class {
+    background: white;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.Calendar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.Calendar li::before {
+    content: '⚫︎ '
+}
+
+.Calendar strong {
+    font-weight: unset;
+}
+
+.Footer {
+    margin-top: 1rem;
+}
+
+.Header {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid black;
+}
+
+.Header h1 {
+    margin: 0;
+}
+
+.Nav-list {
+    list-style-type: none;
+    margin: 0;
+}
+
+.Post {
+    background-color: white;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+.Post > *:first-child {
+    margin-top: 0;
+}
+
+.Post h2,
+.Post h3 {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+.Post img {
+    display: block;
+    max-width: 75%;
+    margin: 2rem auto;
+}
+
+.Post pre {
+    max-width: 75%;
+    margin: 2rem auto;
+    background-color: hsl(0,0%,93%);
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.Page-header {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    
+    margin: 1rem 0;
+    background-color: black;
+    color: lime;
+}
+
+.Page-header h1 {
+    margin: 0;
+}
+
+.PostList {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 1rem;
+    margin: 1rem 0;
+    flex-wrap: wrap;
+}
+
+.PostList-item {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.PostList-item:hover {
+    color: lime;
+    background-color: black;
+}
+
+.PostList-title {
+    margin: 0;
+}
+
+.PostList-link {
+    display: block;
+}
+
+.Meta {
+    font-family: monospace;
+    display: flex;
+    gap: 1rem;
+}

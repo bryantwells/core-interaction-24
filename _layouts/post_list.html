@@ -1,7 +1,19 @@
 ---
 layout: default
 ---
-
+<fieldset class="ClassToggle">
+    <header>
+        Section
+    </header>
+    <div>
+        <input type="checkbox" id="studio_toggle" name="studio" checked />
+        <label for="studio_toggle">Studio</label>
+    </div>
+    <div>
+        <input type="checkbox" id="lab_toggle" name="lab" checked />
+        <label for="lab_toggle">Lab</label>
+    </div>
+</fieldset>
 <ul class="PostList">
 	{% assign posts = '' | split: '' %}
 	{% for collection in page.collections %}
@@ -18,7 +30,7 @@ layout: default
 				{% assign link = post.url %}
 			{% endif %}
 		
-			<li class="PostList-item">
+			<li class="PostList-item" data-class="{{ post.class }}">
 				<h2 class="PostList-title">	
 					<a href="{{ link }}" class="PostList-link">
 						{{ post.title }}
