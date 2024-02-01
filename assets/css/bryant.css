@@ -4,9 +4,13 @@ html {
     line-height: 1.25;
 }
 
-body {
+/* body {
     margin: 0;
     padding: 1rem;
+}
+
+fieldset {
+    border: 1px solid black;
 }
 
 h1,h2,h3,h4 {
@@ -85,10 +89,14 @@ a {
     margin-bottom: 1rem;
 }
 
+.ClassToggle-group {
+    display: flex;
+}
+
 .Nav {
     margin-bottom: 1rem;
 }
 
 .Nav-list {
     display: flex;
-}
+} */
