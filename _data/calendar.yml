@@ -1,4 +1,21 @@
 # ----------------------------
+# WEEK 2
+# ----------------------------
+-
+  title: Week 2 (1/28)
+  studio_1: |
+    - Workshop: Site Map
+    - Slideshow: TBA
+  studio_2: |
+    - **Discuss: "Aesthetics of the Web" Readings**
+    - **Due: P1: Part 1**
+    - **Assigned: P1: Part 2**
+  lab: |
+    - **Review: Introduction Webring**
+    - Workshop: HTML/CSS
+    - **Assigned: Class Stylesheet**
+
+# ----------------------------
 # WEEK 1
 # ----------------------------
 -
@@ -21,20 +38,3 @@
     - Workshop: File Structure and FTP
     - **Assigned: Homepage**
     - **Assigned: Introduction Webring**
-
-# ----------------------------
-# WEEK 2
-# ----------------------------
--
-  title: Week 2 (1/28)
-  studio_1: |
-    - Workshop: Site Map
-    - Slideshow: TBA
-  studio_2: |
-    - **Discuss: "Aesthetics of the Web" Readings**
-    - **Due: P1: Part 1**
-    - **Assigned: P1: Part 2**
-  lab: |
-    - **Review: Introduction Webring**
-    - Workshop: HTML/CSS
-    - **Assigned: Class Stylesheet**
