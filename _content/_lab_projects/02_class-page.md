@@ -23,4 +23,4 @@ Copy the files from [this boilerplate](/files/lab/boilerplates/projects/02_class
          └─ 📄 post-list.html
 ~~~
 
-As a reminder, the only file you should be modifying here is `style.css`!
+As a reminder, the only file you should be modifying here is `style.css`! By next week, your stylesheet should be online and accessible at `[net-id].interactive.rodeo/lab/projects/02_class-page/assets/style.css`
