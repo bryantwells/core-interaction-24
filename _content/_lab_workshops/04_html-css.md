@@ -2,7 +2,7 @@
 title: "Semantic HTML and CSS"
 class: lab
 start_week: 2
-start_date: 2024-02-02 10:30:00
+start_date: 2024-02-02
 ---
 
 This is a continuation of [Story Style](/workshops/03_story-style.html)
