@@ -24,3 +24,8 @@ Copy the files from [this boilerplate](/files/lab/boilerplates/projects/02_class
 ~~~
 
 As a reminder, the only file you should be modifying here is `style.css`! By next week, your stylesheet should be online and accessible at `[net-id].interactive.rodeo/lab/projects/02_class-stylesheet/assets/style.css`
+
+Resources:
+[Codecademy, Learn CSS](https://www.codecademy.com/learn/learn-css)
+[Shay Howe, Getting to Know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
+
