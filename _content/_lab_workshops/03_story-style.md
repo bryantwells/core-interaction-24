@@ -8,7 +8,7 @@ start_date: 2024-02-02
 We will be making a page using HTML, CSS, and embedded media based on the [5 part story](https://docs.google.com/document/d/1ohuinwbARQGmQKHuL748cEAd888F3HOlnbw31WdQFYU) you developed in studio.
 
 ## Setup
-Download [this boilerplate](/files/boilerplates/01_story-style.zip) to get started. Put it in your website's `📁lab/workshops/` folder. It should look like this:
+Download [this boilerplate](/files/lab/boilerplates/01_story-style.zip) to get started. Put it in your website's `📁lab/workshops/` folder. It should look like this:
 
 ~~~
 📂 01_story-style/
