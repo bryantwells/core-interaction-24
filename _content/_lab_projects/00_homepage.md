@@ -7,7 +7,7 @@ start_date: 2024-01-26
 end_date: 2024-05-10
 ---
 
-Copy the additional files and folders from [this boilerplate](/files/boilerplates/core-2-interaction.zip) (keeping the index file and favicon we made in class) into your class website repository. Upon completion, your website's structure should look like this:
+Copy the additional files and folders from [this boilerplate](/files/lab/boilerplates/core-2-interaction.zip) (keeping the index file and favicon we made in class) into your class website repository. Upon completion, your website's structure should look like this:
 
 ~~~
 📂 core-2-interaction/

@@ -42,11 +42,6 @@ select {
     flex: 1;
 }
 
-.ClassToggle-group {
-    display: flex;
-    gap: 1rem;
-}
-
 .Meta {
     display: flex;
 }
@@ -94,6 +89,9 @@ select {
 
 .Footer {
     margin-top: 1rem;
+    position: sticky;
+    bottom: 0;
+    text-align: center;
 }
 
 .Header {
@@ -126,7 +124,7 @@ select {
 
 .Post h2,
 .Post h3 {
-    margin-top: 3rem;
+    margin-top: 4rem;
     margin-bottom: 1rem;
 }
 
@@ -140,8 +138,34 @@ select {
     max-width: 75%;
     margin: 2rem auto;
     background-color: hsl(0,0%,93%);
-    padding: 1rem;
+    padding: 0.5rem;
     border-radius: 0.5rem;
+    overflow-x: scroll;
+}
+
+.Post code {
+    background-color: hsl(0,0%,93%);
+    padding: 0.1rem 0.4rem;
+    border-radius: 5px;
+    display: inline-block;
+    
+}
+
+.Post table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+}
+
+.Post th,
+.Post td {
+    border: 1px solid gainsboro;
+    vertical-align: top;
+    padding: 0.5rem;
+}
+
+.Post th {
+    border-bottom: 1px solid black;
 }
 
 .Page-header {
@@ -190,4 +214,14 @@ select {
     font-family: monospace;
     display: flex;
     gap: 1rem;
+}
+
+.StudentNav {
+    margin-top: 1rem;
+    position: sticky;
+    bottom: 0;
+}
+
+.StudentNav-link {
+    text-decoration: none;
 }
