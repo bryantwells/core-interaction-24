@@ -1,5 +1,5 @@
 ---
-title: "Homepage (Part 1)"
+title: "Homepage (Ongoing)"
 class: lab
 start_week: 1
 end_week: 15
