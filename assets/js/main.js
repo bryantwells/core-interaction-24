@@ -8,8 +8,8 @@ if (currentStylesheet) {
 }
 
 window.addEventListener('load', () => {
-    const classToggle = document.querySelector('.ClassToggle');
-    const stylesheetToggle = document.querySelector('.StylesheetToggle select');
+    const classToggle = document.querySelector('.Fieldset--section');
+    const stylesheetToggle = document.querySelector('.Fieldset--stylesheet select');
     if (stylesheetToggle) {
         if (currentStylesheet) {
             stylesheetToggle.value = currentStylesheet;

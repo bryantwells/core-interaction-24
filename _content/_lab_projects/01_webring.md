@@ -4,7 +4,7 @@ class: lab
 start_week: 1
 end_week: 2
 start_date: 2024-01-26
-end_date: 2024-02-01
+end_date: 2024-02-02
 ---
 
 ![](/files/lab/webring.png)

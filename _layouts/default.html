@@ -55,6 +55,7 @@
         </header>
 
         <main class="Page">
+
             <header class="Page-header">
                 <h1>{{ page.title }}</h1>
                 {%- capture metaContent -%}
@@ -70,11 +71,10 @@
                 {%- endcapture -%}
                 {% include _meta.html content=metaContent %}
             </header>
-            {{ content }}
-        </main>
 
-        <footer class="Footer">
-            <fieldset class="StylesheetToggle">
+            {{ content }}
+
+            <fieldset class="Fieldset Fieldset--stylesheet">
                 <header>
                     Stylesheet
                 </header>
@@ -83,8 +83,24 @@
                     <option value="" disabled>---</option>
                     <option value="/assets/css/bryant.css">Bryant</option>
                     <option value="/assets/css/sasha.css">Sasha</option>
+                    {% for student in site.data.students %}
+                        <option value="{{ student.url }}/lab/projects/02_class-stylesheet/assets/style.css">
+                            {{ student.name }}
+                        </option>
+                    {% endfor %}
                 </select>
             </fieldset>
+
+        </main>
+
+        <footer class="Footer">
+            <nav class="StudentNav">
+                {% for student in site.data.students %}
+                    <a class="StudentNav-link" href="{{ student.url }}">
+                        <img class="StudentNav-image" src="{{ student.url }}/favicon.ico" width="24px" height="24px" />
+                    </a>
+                {% endfor %}
+            </nav>
         </footer>
     </body>
 
