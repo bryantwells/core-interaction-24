@@ -13,7 +13,7 @@ title: Readings
 2. American Artist, [Black Gooey Universe](https://unbag.net/end/black-gooey-universe/), 2018 
 3. Lisa Gitelman, [Always Already New Media: History, and the Data of Culture](https://www.mediastudies.asia/wp-content/uploads/2016/10/Gitelman-Always-Already-New-Intro-excerpts.pdf) (skim the introduction), 2006 
 
-- Submit reading responses [here](https://docs.google.com/document/d/1zp0CmThBfNv7nspoN9clikp86TO3blp8oSBTKPjJ4Jg)
+- Submit reading responses [here](https://docs.google.com/document/d/14SPURa9guJwSUJS3rdpiQyJd6Df_6NxKSDGkP5HI5f8)
 
 ## 02—Aesthetics of the Web
 1.  Olia Lialina, [Vernacular Web](http://art.teleportacia.org/observation/vernacular/), 2007
@@ -22,7 +22,7 @@ title: Readings
 2. Marjanne van Helvert, [Dirty Design](https://dirty-design.net/dirtydesign.html) (introduction) 
 3. Donny Truong, [History of Web Typography](https://prowebtype.com/history/), 2019
 
-- Submit reading responses [here](https://docs.google.com/document/d/1zp0CmThBfNv7nspoN9clikp86TO3blp8oSBTKPjJ4Jg)
+- Submit reading responses [here](https://docs.google.com/document/d/14SPURa9guJwSUJS3rdpiQyJd6Df_6NxKSDGkP5HI5f8)
 
  
  
