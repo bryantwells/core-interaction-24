@@ -224,6 +224,12 @@ strong {
     margin: 0;
 }
 
+
+ol {
+    background-color: #fff7f7;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
 .PostList {
     list-style: none;
     margin: 0;
