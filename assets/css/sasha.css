@@ -34,6 +34,7 @@ a {
 
 fieldset {
     border: 3px ridge red;
+    background-color: #fff7f7;
     padding: 1rem;
     display: flex;
     border-radius: 0.5rem;
