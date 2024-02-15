@@ -109,7 +109,7 @@ select {
     width: 100%;
 }
 
-.Calendar ul {
+.Calendar ul, .StudentList {
 /*    list-style: none;
 */  
 list-style-type: "❤️";
