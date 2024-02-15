@@ -2,8 +2,9 @@
 
 
 html {
-background: rgb(247,208,177);
-background: radial-gradient(circle, rgba(247,208,177,1) 0%, rgba(215,39,39,1) 49%, rgba(215,39,110,1) 100%);
+    background-color: #fac3c3;
+/*background: rgb(247,208,177);
+background: radial-gradient(circle, rgba(247,208,177,1) 0%, rgba(215,39,39,1) 49%, rgba(215,39,110,1) 100%);*/
 }
 
 
