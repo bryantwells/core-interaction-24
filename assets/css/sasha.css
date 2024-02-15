@@ -141,7 +141,8 @@ list-style-position: inside;*/
 }
 
 strong {
-    padding-left: 10px;
+    border: 3px ridge red;
+    border-radius: 1rem;
 }
 
 .Footer {
