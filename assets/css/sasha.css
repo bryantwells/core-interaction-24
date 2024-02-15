@@ -7,8 +7,6 @@ html {
 background: radial-gradient(circle, rgba(247,208,177,1) 0%, rgba(215,39,39,1) 49%, rgba(215,39,110,1) 100%);*/
 }
 
-
-
 img {
     max-width: 100%;
 }
@@ -20,6 +18,10 @@ body {
     font-size: 24px;
     font-family: sans-serif;
     color: red;
+}
+
+.Nav-item {
+    font-size: 24px;
 }
 
 li, .Fieldset-group {
