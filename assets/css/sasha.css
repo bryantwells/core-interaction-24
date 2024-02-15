@@ -115,6 +115,10 @@ list-style-type: "❤️";
     font-weight: unset;
 }
 
+strong {
+    padding-left: 10px;
+}
+
 .Footer {
     margin-top: 1rem;
     position: sticky;
