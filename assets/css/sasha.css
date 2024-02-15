@@ -102,8 +102,11 @@ select {
 }
 
 .Calendar li::before {
-    content: '⚫︎ '
+    content: "\2665 020";
+    color: #9c5597;
 }
+
+
 
 .Calendar strong {
     font-weight: unset;
@@ -198,7 +201,7 @@ select {
     
     margin: 1rem 0;
     background-color: black;
-    color: lime;
+    color: white;
 }
 
 .Page-header h1 {
@@ -222,7 +225,7 @@ select {
 }
 
 .PostList-item:hover {
-    color: lime;
+    color: white;
     background-color: black;
 }
 
