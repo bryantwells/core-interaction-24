@@ -192,8 +192,8 @@ select {
     border-radius: 0.5rem;
     
     margin: 1rem 0;
-    background-color: black;
-    color: white;
+    background-color: transparent;
+    color: black;
 }
 
 .Page-header h1 {
