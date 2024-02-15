@@ -1,30 +1,11 @@
 
 html {
-    background: linear-gradient(232deg, #f8f4da, #000000);
-    background-size: 400% 400%;
-
-    -webkit-animation: homepage 13s ease infinite;
-    -moz-animation: homepage 13s ease infinite;
-    animation: homepage 13s ease infinite;
+background: rgb(247,208,177);
+background: radial-gradient(circle, rgba(247,208,177,1) 0%, rgba(215,39,39,1) 49%, rgba(215,39,110,1) 100%);
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 
 }
 
-@-webkit-keyframes homepage {
-    0%{background-position:0% 48%}
-    50%{background-position:100% 53%}
-    100%{background-position:0% 48%}
-}
-@-moz-keyframes homepage {
-    0%{background-position:0% 48%}
-    50%{background-position:100% 53%}
-    100%{background-position:0% 48%}
-}
-@keyframes homepage {
-    0%{background-position:0% 48%}
-    50%{background-position:100% 53%}
-    100%{background-position:0% 48%}
-}
 
 img {
     max-width: 100%;
