@@ -31,7 +31,7 @@ a {
 }
 
 fieldset {
-    border: 5px ridge red;
+    border: 3px ridge red;
     padding: 1rem;
     display: flex;
     border-radius: 0.5rem;
@@ -76,7 +76,7 @@ select {
 }
 
 .Calendar-week {
-    border: 5px ridge red;
+    border: 3px ridge red;
     padding: 1rem;
     border-radius: 0.5rem;
     margin: 1rem 0;
@@ -127,8 +127,8 @@ list-style-type: "❤️";
     grid-template-columns: 2fr 1fr;
     padding: 1rem;
     border-radius: 0.5rem;
-    border: 5px ridge red;
-    background-color: transparent;
+    border: 3px ridge red;
+    background-color: white;
     opacity: .75;
 }
 
