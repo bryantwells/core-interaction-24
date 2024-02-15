@@ -90,7 +90,7 @@ select {
     gap: 1rem;*/
 }
 
-.Calendar-weekHeader {
+.Calendar-week {
     background-color: #fff7f7;
 }
 .Calendar-class {
