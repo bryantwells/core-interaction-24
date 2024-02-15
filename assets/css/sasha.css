@@ -95,14 +95,19 @@ select {
 }
 
 .Calendar ul {
-    list-style: none;
+/*    list-style: none;
+*/  
+list-style-type: "❤️";
+  padding-inline-start: 1ch;  
     padding: 0;
 }
 
-.Calendar li::before {
+/*.Calendar li::before {
     content: "&#9829;";
     color: red;
-}
+}*/
+
+
 
 
 
