@@ -88,8 +88,8 @@ select {
 }
 
 .Calendar li::before {
-    content: "\2665 020";
-    color: #9c5597;
+    content: "&#x2665;";
+    color: red;
 }
 
 
