@@ -118,11 +118,11 @@ select {
     width: 100%;
 }
 
-.Calendar ul, .StudentList {
-/*    list-style: none;
-*/  
-list-style-type: "❤️";
-list-style-position: inside;
+.Calendar ul, .StudentList, ol {
+list-style: none;
+
+/*list-style-type: "❤️";
+list-style-position: inside;*/
   padding-inline-start: 10px;  
     padding: 0;
 }
