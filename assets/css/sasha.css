@@ -143,6 +143,7 @@ list-style-position: inside;*/
 strong {
     border: 3px ridge red;
     border-radius: 1rem;
+    padding: 5px;
 }
 
 .Footer {
