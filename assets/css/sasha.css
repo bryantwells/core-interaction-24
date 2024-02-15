@@ -38,7 +38,7 @@ p, .StudentList {
     border: 3px ridge red;
     background-color: #fff0f0;
     padding: 1rem;
-    border-radius: 0.5rem;
+    border-radius: 2.75rem;
 }
 
 .StudentList {
@@ -55,7 +55,7 @@ fieldset {
     background-color: #fff0f0;
     padding: 1rem;
     display: flex;
-    border-radius: 0.5rem;
+    border-radius: 2.75rem;
     gap: 1rem;
 }
 
@@ -89,7 +89,7 @@ select {
 
 .Calendar h2 {
     margin-top: 0;
-    margin-bottom: 0.5rem;
+    margin-bottom: 2.75rem;
 }
 
 .Calendar h3 {
@@ -99,7 +99,7 @@ select {
 .Calendar-week {
     border: 3px ridge red;
     padding: 1rem;
-    border-radius: 0.5rem;
+    border-radius: 2.75rem;
     margin: 1rem 0;
 }
 
@@ -155,7 +155,7 @@ strong {
     display: grid;
     grid-template-columns: 2fr 1fr;
     padding: 1rem;
-    border-radius: 0.5rem;
+    border-radius: 2.75rem;
     border: 3px ridge red;
     background-color: #fff0f0;
     text-align: left;
@@ -177,7 +177,7 @@ strong {
 
 .Post {
     background-color: transparent;
-    border-radius: 0.5rem;
+    border-radius: 2.75rem;
     padding: 1rem;
     margin: 1rem 0;
 }
@@ -202,8 +202,8 @@ strong {
     max-width: 75%;
     margin: 2rem auto;
     background-color: hsl(0,0%,93%);
-    padding: 0.5rem;
-    border-radius: 0.5rem;
+    padding: 2.75rem;
+    border-radius: 2.75rem;
     overflow-x: scroll;
 }
 
@@ -225,7 +225,7 @@ strong {
 .Post td {
     border: 1px solid gainsboro;
     vertical-align: top;
-    padding: 0.5rem;
+    padding: 2.75rem;
 }
 
 .Post th {
@@ -234,7 +234,7 @@ strong {
 
 .Page-header {
     padding: 1rem;
-    border-radius: 0.5rem;
+    border-radius: 2.75rem;
     
     margin: 1rem 0;
     background-color: transparent;
@@ -248,7 +248,7 @@ strong {
 ol {
     background-color: #fff0f0;
     padding: 1rem 1rem 1rem 3rem;
-    border-radius: 0.5rem;
+    border-radius: 2.75rem;
     border: 3px ridge red;
 }
 .PostList {
@@ -264,7 +264,7 @@ ol {
 .PostList-item {
     background-color: #fff0f0;
     padding: 1rem;
-    border-radius: 0.5rem;
+    border-radius: 2.75rem;
 }
 
 .PostList-item:hover {
