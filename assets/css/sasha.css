@@ -204,7 +204,6 @@ list-style-type: "❤️";
     
     margin: 1rem 0;
     background-color: transparent;
-    color: black;
 }
 
 .Page-header h1 {
@@ -229,7 +228,6 @@ list-style-type: "❤️";
 
 .PostList-item:hover {
     color: white;
-    background-color: black;
 }
 
 .PostList-title {
