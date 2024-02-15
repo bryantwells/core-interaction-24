@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Herr+Von+Muellerhoff&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Herr+Von+Muellerhoff&display=swap');
 
 
 html {
@@ -150,14 +150,14 @@ select {
 .Post pre {
     max-width: 75%;
     margin: 2rem auto;
-    background-color: transparent;
+    background-color: hsl(0,0%,93%);
     padding: 0.5rem;
     border-radius: 0.5rem;
     overflow-x: scroll;
 }
 
 .Post code {
-    background-color: transparent;
+    background-color: hsl(0,0%,93%);
     padding: 0.1rem 0.4rem;
     border-radius: 5px;
     display: inline-block;
