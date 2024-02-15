@@ -150,6 +150,10 @@ strong {
     margin: 0;
 }
 
+.Nav-list li a {
+    text-decoration: none;
+}
+
 .Post {
     background-color: transparent;
     border-radius: 0.5rem;
