@@ -1,10 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Herr+Von+Muellerhoff&display=swap')
+
 
 html {
 background: rgb(247,208,177);
 background: radial-gradient(circle, rgba(247,208,177,1) 0%, rgba(215,39,39,1) 49%, rgba(215,39,110,1) 100%);
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: "Herr Von Muellerhoff", cursive;
+    font-weight: 400;
+    font-style: normal;
 
 }
+
 
 
 img {
