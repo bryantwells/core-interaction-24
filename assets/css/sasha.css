@@ -20,6 +20,10 @@ body {
     font-family: sans-serif;
 }
 
+li {
+    font-size: 14px;
+}
+
 a {
     color: currentColor;
 }
