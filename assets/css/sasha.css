@@ -90,8 +90,11 @@ select {
     gap: 1rem;
 }
 
+.Calendar-weekHeader {
+    background-color: #fff7f7;
+}
 .Calendar-class {
-    background: lightpink;
+    background: transparent;
     padding: 1rem;
     border-radius: 0.5rem;
 }
@@ -134,7 +137,7 @@ strong {
     padding: 1rem;
     border-radius: 0.5rem;
     border: 3px ridge red;
-    background-color: white;
+    background-color: #fff7f7;
     opacity: .75;
 }
 
@@ -227,7 +230,7 @@ strong {
 }
 
 .PostList-item {
-    background-color: white;
+    background-color: #fff7f7;
     padding: 1rem;
     border-radius: 0.5rem;
 }
