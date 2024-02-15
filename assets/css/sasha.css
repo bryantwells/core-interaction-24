@@ -39,8 +39,12 @@ p, .StudentList {
     background-color: #fff0f0;
     padding: 1rem;
     border-radius: 0.5rem;
-    gap: 1rem;
 }
+
+.StudentList {
+    padding: 1rem;
+}
+
 
 a {
     color: currentColor;
