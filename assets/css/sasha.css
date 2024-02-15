@@ -85,9 +85,9 @@ select {
 }
 
 .Calendar-weekBody {
-    display: grid;
+    /*display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 1rem;
+    gap: 1rem;*/
 }
 
 .Calendar-weekHeader {
@@ -96,7 +96,7 @@ select {
 .Calendar-class {
     background: transparent;
     padding: 1rem;
-    border-radius: 0.5rem;
+    width: 100%;
 }
 
 .Calendar ul {
