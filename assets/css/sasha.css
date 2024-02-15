@@ -91,7 +91,7 @@ select {
 }
 
 .Calendar-class {
-    background: transparent;
+    background: lightpink;
     padding: 1rem;
     border-radius: 0.5rem;
 }
