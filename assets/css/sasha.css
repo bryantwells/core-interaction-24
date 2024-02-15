@@ -6,6 +6,8 @@ html {
     -webkit-animation: homepage 13s ease infinite;
     -moz-animation: homepage 13s ease infinite;
     animation: homepage 13s ease infinite;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+
 }
 
 @-webkit-keyframes homepage {
@@ -233,7 +235,6 @@ select {
 }
 
 .Meta {
-    font-family: monospace;
     display: flex;
     gap: 1rem;
 }
