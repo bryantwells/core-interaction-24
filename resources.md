@@ -9,8 +9,8 @@ title: Resources
 
 ## Quick Links
 1. [Studio Class Lineup](https://docs.google.com/document/d/1mC-NGmhZ_U7QS5CP1p7_hDiZ1N5kAbK21VtIVVQk8JE)
-2. [Lecture Schedule](https://cdparsons.glideapp.io/dl/da19fa
-)
+2. [Lecture Schedule](https://cdparsons.glideapp.io/dl/da19fa)
+3. [Live Share](https://prod.liveshare.vsengsaas.visualstudio.com/join?147C774A01E898A98F6944F491DC8C40CED8)
 
 ## Neccessary Programs
 1. [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
