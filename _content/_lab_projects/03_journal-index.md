@@ -7,14 +7,28 @@ start_date: 2024-02-22
 end_date: 2024-02-29
 ---
 
-Use [this boilerplate](/files/lab/boilerplates/projects/03_journal-index.zip) to create an 'index' for your observation journal entries. 
+Use [this boilerplate](/files/lab/boilerplates/projects/03_journal-index.zip) to create an 'index' for your observation journal entries. Your folder structure should look like this:
+
+~~~
+📂 core-2-interaction/
+└─ 📂 lab/ 
+   └─ 📁 projects/
+      └─ 📁 03_journal-index
+         ├─ 📄 index.html
+         ├─ 📁 entries
+         │  ├─ 📄 1.html
+         │  ├─ ...
+         │  └─ 📄 15.html
+         ├─ 📁 assets
+         └─ 📁 media
+~~~
 
 ## Required Pages
 
-Your site should include the following pages:
+Your site will include the following pages:
 
 1. 1 index page, linking to each entry
-2. 10 entry pages
+2. 15 entry pages
 
 ## Required Information
 
