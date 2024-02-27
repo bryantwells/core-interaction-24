@@ -1,8 +1,8 @@
 ---
 title: "Layouts with CSS"
 class: lab
-start_week: 4
-start_date: 2024-02-16
+start_week: 5
+start_date: 2024-02-22
 ---
 
 ## When To Use Flexbox
@@ -104,7 +104,3 @@ grid-row: span 2;
 
 ## Resources
 [Boilerplate](/files/lab/boilerplates/workshops/02_layout.zip)  
-[Grid Garden](https://codepip.com/games/grid-garden/)  
-[Flexbox Froggy](https://flexboxfroggy.com/)
-[CSS Tricks: CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-[CSS Tricks: Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
