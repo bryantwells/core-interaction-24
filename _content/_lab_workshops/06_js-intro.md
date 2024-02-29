@@ -193,8 +193,3 @@ for (var numberOfBites = 1; numberOfBites <= 6; numberOfBites++) {
     }
 }
 ~~~
-
-
-### Completed Exercise Files
-
-[04-js-intro.zip](/content/07_exercises/06_js-intro/04-js-intro.zip)
