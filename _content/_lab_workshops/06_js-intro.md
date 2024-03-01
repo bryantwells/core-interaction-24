@@ -193,3 +193,6 @@ for (var numberOfBites = 1; numberOfBites <= 6; numberOfBites++) {
     }
 }
 ~~~
+
+## Resources
+[boilerplate](files/lab/boilerplates/workshops/03_js-intro.zip)
