@@ -10,8 +10,8 @@ title: Resources
 ## Quick Links
 1. [Studio Class Lineup](https://docs.google.com/document/d/1mC-NGmhZ_U7QS5CP1p7_hDiZ1N5kAbK21VtIVVQk8JE)
 2. [Lecture Schedule](https://cdparsons.glideapp.io/dl/da19fa)
-3. [Core 2 Vimeo](https://vimeo.com/user/11664633/folder/3213480) 
 3. [Lecture responses](https://drive.google.com/drive/folders/1rlgJUz12xSzU5Aj_C3kzcOhQcFdfC0eo)
+4. [Core 2 Vimeo](https://vimeo.com/user/11664633/folder/3213480) 
 
 ## Programs
 1. [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)
