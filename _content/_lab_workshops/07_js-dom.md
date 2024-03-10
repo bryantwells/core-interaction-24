@@ -5,7 +5,7 @@ start_week: 7
 start_date: 2024-03-07
 ---
 
-[Download the boilerplate here!](/files/lab/boilerplates/workshops/04_js-dom.zip)  
+[Download the boilerplate here!](/files/lab/boilerplates/workshops/04_js-dom_complete.zip)  
 
 By connecting to the Document Object, JavaScript has the ability to...
 
