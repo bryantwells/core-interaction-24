@@ -5,7 +5,7 @@ start_week: 7
 start_date: 2024-03-07
 ---
 
-[Download the boilerplate here!](/files/lab/boilerplates/workshops/04_js-dom_complete.zip)  
+[Download the boilerplate here!](/files/lab/boilerplates/workshops/04_js-dom.zip)  
 
 By connecting to the Document Object, JavaScript has the ability to...
 
@@ -60,4 +60,4 @@ Even arrays have methods and properties!
 
 ### Completed Exercise Files
 
-[04-js-dom_complete.zip](/files/lab/boilerplates/workshops/04_js-dom.zip)
+[04-js-dom_complete.zip](/files/lab/boilerplates/workshops/04_js-dom_complete.zip)
