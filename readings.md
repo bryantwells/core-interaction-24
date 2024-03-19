@@ -31,6 +31,15 @@ title: Readings
 
 - Submit reading responses [here](https://docs.google.com/document/d/1rJIwVwsTIiZjRfd3gDo1aUjUQUZGbYveoz5Qipr7Z6M)
 
+## 04—Web Accessibility
+1.  [In Web Design, Accessibility Shouldn’t Be an Afterthought](https://eyeondesign.aiga.org/in-web-design-accessibility-shouldnt-be-an-afterthought/), Margaret Andersen
+2.  [The Hidden Image Descriptions Making the Internet Accessible](https://www.nytimes.com/interactive/2022/02/18/arts/alt-text-images-descriptions.html), Meg Miller and Ilaria Parogni 
+3.  [Web Accessibility Checklist](https://www.webaccessibilitychecklist.com/) (you can expand each item in the list) 
+4.  Further reading (optional) [Making a Case for Self-Description](https://disabilityvisibilityproject.com/2022/04/12/making-a-case-for-self-description-its-not-about-eye-candy/amp/), Thomas Reid
+
+
+- Submit reading responses [here](https://docs.google.com/document/d/1PdB98zLImBAG7iRXSG8bpLaz4abQHVyQDDNEIf2JGa0)
+
  
  
 
