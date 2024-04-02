@@ -47,7 +47,7 @@ title: Readings
 3.  [What Designers Can Learn from Indigenous Communities Fighting Climate Change,](https://eyeondesign.aiga.org/what-designers-can-learn-from-indigenous-communities-fighting-climate-change/),  Anoushka Khandwala
 
 
-- Submit reading responses [here](https://docs.google.com/document/d/1xWcvLGTtUwXcMvDu3PwZsYm8bm11KCCAqqOerEaiVGA/edit)
+- Submit reading responses [here](https://docs.google.com/document/d/1xWcvLGTtUwXcMvDu3PwZsYm8bm11KCCAqqOerEaiVGA)
 
  
 
