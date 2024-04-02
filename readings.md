@@ -41,5 +41,16 @@ title: Readings
 - Submit reading responses [here](https://docs.google.com/document/d/1PdB98zLImBAG7iRXSG8bpLaz4abQHVyQDDNEIf2JGa0)
 
  
+## 05—Climate Change and Design
+1.  Watch: [The Story Behind Earth’s Most Famous Photo | The Bigger Picture with Vincent Brown | PBS](https://www.youtube.com/watch?v=Wnr4RJxDifw&t=1s)
+2.  [Every Brand Is a Climate Brand These Days, and That’s Terrible For the Environment](https://eyeondesign.aiga.org/every-brand-is-a-climate-brand-these-days-and-thats-terrible-for-the-environment/), John Kazior 
+3.  [What Designers Can Learn from Indigenous Communities Fighting Climate Change,](https://eyeondesign.aiga.org/what-designers-can-learn-from-indigenous-communities-fighting-climate-change/),  Anoushka Khandwala
+
+
+- Submit reading responses [here](https://docs.google.com/document/d/1xWcvLGTtUwXcMvDu3PwZsYm8bm11KCCAqqOerEaiVGA/edit)
+
+ 
+
+
  
 
