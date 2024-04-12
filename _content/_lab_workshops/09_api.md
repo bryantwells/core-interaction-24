@@ -62,4 +62,6 @@ fetch('api.turtles.org/turtle?type=seaTurtle&color=purple')
 ~~~
 
 ## Resources
+
+* [Workshop Boilerplate](/files/lab/boilerplates/workshops/07_api.zip)
 * [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
