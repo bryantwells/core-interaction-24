@@ -1,3 +1,10 @@
+---
+title: "JS API's"
+class: lab
+start_week: 11
+start_date: 2024-04-11
+---
+
 1. Make an account with [Open Weather Map](https://home.openweathermap.org/users/sign_up) to get an [API key](https://home.openweathermap.org/api_keys)
 
 ## About JSON API's
