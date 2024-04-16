@@ -7,7 +7,8 @@
   studio_2: |
     - Begin P3: Real-Time
   lab: |
-    - Workshop: TBA
+    - Workshop: Keeping Time with JS
+    - Assigned: Text Over Time
 
 
 
@@ -21,7 +22,7 @@
   studio_2: |
     - Work in class
   lab: |
-    - Workshop: TBA
+    - 1-on-1's
 
 
 # ----------------------------
@@ -52,6 +53,7 @@
     - Review P2: Part 4
   lab: |
     - Workshop: JS DOM
+    - Assigned: Collection DOM
 
 # ----------------------------
 # WEEK 6
