@@ -1,10 +1,13 @@
-var dateObject = new Date();
-var year = dateObject.getFullYear();
-var month = String(dateObject.getMonth()).padStart(2, '0');
-var day = String(dateObject.getDay()).padStart(2, '0');
-var URL = `https://climate-api.open-meteo.com/v1/climate?latitude=52.52&longitude=13.41&start_date=${ year }-${ month }-${ day }&end_date=${ year }-${ month }-${ day }&models=NICAM16_8S&temperature_unit=fahrenheit&wind_speed_unit=mph&precipitation_unit=inch&daily=relative_humidity_2m_mean,relative_humidity_2m_max,relative_humidity_2m_min`;
+var URL = 'https://moon-phase.p.rapidapi.com/basic';
+var key = 'fb17a5b661mshd65f0506b9963c2p1e4e6djsn1174d5435dae';
 
-fetch(URL)
+
+fetch(URL, {
+	headers: {
+		'x-rapidapi-host': 'moon-phase.p.rapidapi.com',
+		'x-rapidapi-key': key,
+	}
+})
 	.then((response) => {
 		return response.json();
 	})
