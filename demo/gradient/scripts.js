@@ -12,18 +12,31 @@ fetch(URL)
 	})
 
 function render(data) {
+
+	// time
 	var sunriseDateObject = new Date(`${ data.results.date } ${ data.results.sunrise }`);
 	var nowDateObject = new Date();
 	var sunsetDateObject = new Date(`${ data.results.date } ${ data.results.sunset }`);
 	var startSeconds = sunriseDateObject.getTime();
 	var nowSeconds = nowDateObject.getTime();
 	var endSeconds = sunsetDateObject.getTime();
-	console.log(startSeconds, nowSeconds, endSeconds);
-	var angle = map(nowSeconds, startSeconds, endSeconds, 0, 180);
-	var hue = map(nowSeconds, startSeconds, endSeconds, 0, 360);
-	var shadowElement = document.querySelector('.shadow');
-	shadowElement.style.transform = `translateY(20px) rotate(${ angle }deg)`;
-	document.body.style.background = `hsl(${ hue }, 100%, 50%)`;
+
+	// colors
+	var h1 = 250;
+	var s1 = 100;
+	var l1 = map(nowSeconds, startSeconds, endSeconds, 0, 50);
+
+	var h2 = map(nowSeconds, startSeconds, endSeconds, 150, 30);
+	var s2 = 100;
+	var l2 = 50;
+
+	var h3 = map(nowSeconds, startSeconds, endSeconds, 0, 200);
+	var s3 = 100;
+	var l3 = map(nowSeconds, startSeconds, endSeconds, 0, 50);
+
+	document.documentElement.style.background = `
+		linear-gradient(to bottom, hsl(${ h1 }, ${ s1 }%, ${ l1 }%), hsl(${ h2 }, ${ s2 }%, ${ l2 }%), hsl(${ h3 }, ${ h3 }%, ${ h3 }%))
+	`;
 }
 
 function map(num, in_min, in_max, out_min, out_max) {
