@@ -9,7 +9,7 @@ fetch(URL)
 	.then((data) => {
 		console.log(data);
 		render(data);
-	})
+	});
 
 function render(data) {
 	var dateObject = new Date();
@@ -18,5 +18,5 @@ function render(data) {
 	document.body.innerHTML = `
 		<p>Hour: ${ hour }</p>
 		<p>CO1: ${ data.hourly.carbon_monoxide[hour] }</p>
-	`
+	`;
 }
